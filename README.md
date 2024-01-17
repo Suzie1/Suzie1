@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 Hi 👋 My name is Suzie
 ================================
 
-Creative AI-Based Solutions for Artists, Designers, and Animators
+Creative AI-based Solutions for Artists, Designers, and Animators
 -------------------------------
 I'm a Python developer with a passion for building nodes and workflows using ComfyUI. I'm currently self-employed, working as a freelance consultant.
 
