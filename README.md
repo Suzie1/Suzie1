@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 Hi 👋 My name is Suzie
 ================================
 
-Creative AI-based Solutions for Artists, Designers, and Animators
+Creative AI-Based Solutions for Artists, Designers, and Animators
 -------------------------------
 I'm a Python developer with a passion for building nodes and workflows using ComfyUI. I'm currently self-employed, working as a freelance consultant.
 
 🌍 I'm based in Portugal
 
-✉️ You can contact me on Discord at https://discord.gg/QBCsP7Y7pZ
+✉️ You can contact me on Discord at [AI Revolution](https://discord.gg/QBCsP7Y7pZ)
 
 🚀 I'm currently working on Comfyroll Studio
 
